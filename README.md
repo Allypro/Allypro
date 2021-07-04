@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Technologies
 - 🌱 I’m currently learning ...AWS and React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohd.aleem21@gmail.com
+- 📫 How to reach me ally.cool21@gmail.com
 
 <!---
 Allypro/Allypro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
