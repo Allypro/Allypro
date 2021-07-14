@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allypro
 - 👀 I’m interested in Front End Technologies
-- 🌱 I’m currently learning ...AWS and React
+- 🌱 I’m currently learning ...React and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ally.cool21@gmail.com
 
