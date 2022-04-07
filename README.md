@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Allypro
+- 👋 Hi, I’m @Abdul
 - 👀 I’m interested in Front End Technologies
 - 🌱 I’m currently learning ...React and AWS
 - 💞️ I’m looking to collaborate on ...
